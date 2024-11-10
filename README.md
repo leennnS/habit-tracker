@@ -44,11 +44,6 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/leennnS/habit-tracker.git
    ```
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Bahaa011/CSIS228-Project.git
-   ```
 
 2. Navigate to the project folder:
 
